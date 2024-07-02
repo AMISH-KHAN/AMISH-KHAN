@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning react<br><br>💬 Ask me about JavaScript, NodeJS, Express, Bootstrap<br><br>📫 How to reach me khanamish8923@gmail.com
+🌱 I’m currently learning react<br><br>💬 Ask me about JavaScript, NodeJS, Express, Bootstrap, React, tailwind<br><br>📫 How to reach me khanamish8923@gmail.com
 
 
 ## 🌐 Socials:
